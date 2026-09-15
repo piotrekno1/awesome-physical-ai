@@ -114,6 +114,10 @@ Curated resources for Physical AI — where robotics, machine learning, and embo
 - **AutoGPTQ** - GPTQ quantization. [GitHub](https://github.com/AutoGPTQ/AutoGPTQ)
 - **TensorRT** - Optimized deep learning inference. [Site](https://developer.nvidia.com/tensorrt)
 
+### Monitoring & Continuous Learning
+
+- ** WildEdge** - Production learning loop for edge AI. [WildEdge](https://github.com/wild-edge)
+
 ---
 
 ## Hardware & Actuation
