@@ -116,7 +116,7 @@ Curated resources for Physical AI — where robotics, machine learning, and embo
 
 ### Monitoring & Continuous Learning
 
-- ** WildEdge** - Production learning loop for edge AI. [WildEdge](https://github.com/wild-edge)
+- **WildEdge** - Production learning loop for edge AI. [WildEdge](https://github.com/wild-edge)
 
 ---
 
